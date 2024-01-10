@@ -41,3 +41,7 @@ Testing:
 
 Test your application to ensure that tasks are stored/retrieved correctly and that the UI responds appropriately to user actions.
 #
+<img width="228" alt="Screenshot 2024-01-10 152140" src="https://github.com/hiranmai16/Keka_Task_ToDo-main/assets/138430900/07e65554-6a2d-43ee-8593-b460251f7f1a">
+<img width="278" alt="Screenshot 2024-01-10 152001" src="https://github.com/hiranmai16/Keka_Task_ToDo-main/assets/138430900/defc2f8d-28bb-4624-8602-9e13f127c45e">
+
+
